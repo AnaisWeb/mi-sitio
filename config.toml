@@ -1,0 +1,18 @@
+baseURL = "https://AnaisWeb.github.io/mi-sitio/"
+languageCode = "es"
+title = "CURRICULUM WEB"
+theme = "tale"
+
+[Author]
+  name = "Anaís López Molina"
+
+[menu]
+  [[menu.main]]
+    identifier = "contacto"
+    name = "CONTACTO"
+    title = "CONTACTO"
+    url = "/contacto/"
+    weight = 0
+
+[params]
+  css = ["css/estilos.css"]

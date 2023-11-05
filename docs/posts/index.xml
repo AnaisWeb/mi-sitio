@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on CURRICULUM WEB</title>
+    <link>https://AnaisWeb.github.io/mi-sitio/posts/</link>
+    <description>Recent content in Posts on CURRICULUM WEB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 25 Oct 2023 21:32:07 +0200</lastBuildDate>
+    
+	<atom:link href="https://AnaisWeb.github.io/mi-sitio/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BIENVENIDOS A MI BLOG</title>
+      <link>https://AnaisWeb.github.io/mi-sitio/posts/bienvenidos-a-mi-blog/</link>
+      <pubDate>Tue, 25 Oct 2023 21:10:07 +0200</pubDate>
+      
+      <guid>https://AnaisWeb.github.io/mi-sitio/posts/bienvenidos-a-mi-blog/</guid>
+      <description>
+      ¡Bienvenido a mi BLOG sobre mi CURRICULUM! Soy Anaís López Molina, una estudiante muy motivada con ganas de finalizar mis estudios de enfermería. Busco trabajo en cualquier campo para crecer 
+        laboralmente.</description>
+    </item>
+    
+    <item>
+      <title>FORMACIÓN</title>
+      <link>https://AnaisWeb.github.io/mi-sitio/posts/formación/</link>
+      <pubDate>Tue, 25 Oct 2023 21:09:40 +0200</pubDate>
+      
+      <guid>https://AnaisWeb.github.io/mi-sitio/posts/formación/</guid>
+      <description>Salesianos Loyola, Educación Secundaria Obligatoria 2021, Aranjuez, Madrid.
+        Salesianos Loyola, FP Básica Peluquería y Estética 2021 Aranjuez, Madrid.
+        IES Villa de Valdemoro, Grado Medio Auxiliar Enfermería 2023, Valdemoro, Madrid.</description>
+    </item>
+
+    <item>
+      <title>IDIOMAS</title>
+      <link>https://AnaisWeb.github.io/mi-sitio/posts/idiomas/</link>
+      <pubDate>Tue, 25 Oct 2023 21:32:07 +0200</pubDate>
+      
+      <guid>https://AnaisWeb.github.io/mi-sitio/posts/idiomas/</guid>
+      <description>Idiomas:
+        INGLÉS - Medio.
+        ESPAÑOL - Materno.</description>
+    </item>
+
+    <item>
+      <title>EXPERIENCIA LABORAL</title>
+      <link>https://AnaisWeb.github.io/mi-sitio/posts/experiencia-laboral/</link>
+      <pubDate>Tue, 25 Oct 2023 21:32:07 +0200</pubDate>
+      
+      <guid>https://AnaisWeb.github.io/mi-sitio/posts/experiencia-laboral/</guid>
+      <description>Niñera/Canguro (2019 – 2020) - Villaconejos.
+    Socorrista en Madrid [E.S ZALTARI] (2023).
+    Auxiliar de Enfermería (Prácticas 2023, Quirófano y Medicina Interna) Hospital del Tajo, Aranjuez.</description>
+    </item>
+
+    <item>
+      <title>PERMISOS</title>
+      <link>https://AnaisWeb.github.io/mi-sitio/posts/permisos/</link>
+      <pubDate>Tue, 25 Oct 2023 21:32:07 +0200</pubDate>
+      
+      <guid>https://AnaisWeb.github.io/mi-sitio/posts/permisos/</guid>
+      <description>Permiso B de circulación (en proceso).</description>
+    </item>
+
+
+
+  </channel>
+</rss>
